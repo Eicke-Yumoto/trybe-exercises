@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <title>HTML</title>
+  </head>
+  <body>
+    <h1>Exercícios</h1>
+    <ul>
+    <li><a href="#Djovana">Djovana Boeing</a><li>
+    <li><a href="#Sandra">Sandra Maia</a><li>
+      <p id="Sandra">Sandra Maia: carioca, educada e muito gentil, me ajudou na atividade em dupla antes do git<p>
+      <p id="Djaniza">Djaniza: engraçada, divertida e criativa, me ajudou na apresentação sobre o funcionamento da internet<p>
+    </ul>
+    <img src="https://i.kym-cdn.com/entries/icons/original/000/013/564/doge.jpg">
+    <img src="r34.jpg">
+    <a href="google.com" target="">Google</a>
+  </body>
+</html>
