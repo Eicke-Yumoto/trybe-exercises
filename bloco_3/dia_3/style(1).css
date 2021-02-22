@@ -1,0 +1,58 @@
+.super-mario {
+    width: 200px;
+    
+}
+.goomba {
+    width: 150px;
+    display: block;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    
+}
+.baloon{
+    width: 200px;
+    position: absolute;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    float: right;
+    right: 280px;
+
+    
+
+}
+.bowser {
+    width: 400px;
+    position: absolute;
+    z-index: 0;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    top: 150px;
+}
+.mario-goomba {
+    display: inline;
+    width: 50%;
+    float: left;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+
+}
+.baloon-browser {
+    display: inline;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+.word {
+    top: 45px;
+    position: absolute;
+    z-index: 3;
+    float: right;
+    left: 240px;
+    font-size: 13px;
+}
+
+
